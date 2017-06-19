@@ -1,1 +1,1 @@
-# Rexsoft Code Samples Repository
+# RexSoft Code Samples Repository
